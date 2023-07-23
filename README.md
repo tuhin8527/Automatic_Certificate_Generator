@@ -25,12 +25,12 @@ Etc
 <h3>Procedure:</h3>
 
 Read an Excel sheet containing details. Text is read from the file
-seperately from numbers
-Read blank certificate image
+seperately from numbers.
+Read blank certificate image and
 Obtain topics from the txt variable which are in 3rd column
-combine names and topics
-obtain positions to insert on the image, MSPaint or any image editor
-Provide parameters for function inserttext
+combine names and topics.
+Obtain positions to insert on the image, MSPaint or any image editor.
+Provide parameters for function inserttext.
 Font size is 22 and opacity of box is 0 means 100% transparent
 generate and save files with .png extension
 
